@@ -59,7 +59,6 @@
 
 ###
 
-<br clear="both">
 
 <!-- Pastikan kamu sudah punya workflow snake.svg di repo -->
 
