@@ -5,7 +5,13 @@
 ---
 
 ###
+<h2 align="left">
+  <span class="code-font-1">|Who is me?</span>
+</h2>
 
+<div align="center">
+  <img src="./assets/banner.gif" alt="funny coding gif" />
+</div>
 
 ---
 ###
