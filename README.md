@@ -2,50 +2,18 @@
   <span class="type code-font">Yo, man! Wasgud?</span>
 </h1>
 
-<style>
-  .code-font {
-    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 1.1em;
-    color: #cc4549;        /* biru kode GitHub */
-  }
-
-  .type {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid;
-    max-width: 0;
-    margin-bottom:-50px;
-    animation:
-      typing 2.5s steps(32, end) forwards,
-      blink 1s step-end infinite;
-  }
-
-  @keyframes typing {
-    to { max-width: 100%; }
-  }
-
-  @keyframes blink {
-    50% { border-color: transparent; }
-  }
-</style>
 ---
-###
-
-
 
 ###
 
-<!-- Ganti link GIF dengan yang langsung ke file .gif, bukan halaman -->
-
-<img align="center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 ---
 ###
-<h3 align="left">
+<h2 align="left">
   <span class="code-font-1">|My Skills</span>
-</h3>
+</h2>
 
+<img align="right" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -65,9 +33,9 @@
 </div>
 
 ###
-<h3 align="left">
+<h2 align="left">
   <span class="code-font-1">|Socials</span>
-</h3>
+</h2>
 <div align="left">
   <a href="https://www.instagram.com/alfaaaruqyy?igsh=MWtkM2s0cXVmdnV6eg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
@@ -91,20 +59,10 @@
 
 ###
 
-
-### 
-<h3 align="left">
-  <span class="code-font-1">|Who is me?</span>
-</h3>
-
-<div align="center">
-  <img src="./assets/banner.gif" alt="funny coding gif" />
-</div>
-
 ###
-<h3 align="left">
+<h2 align="left">
   <span class="code-font-1">|Let'Play!</span>
-</h3>
+</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
@@ -114,19 +72,11 @@
 ###
 
 ---
-<h3 align="left">
+<h2 align="left">
   <span class="code-font-1">|Play music?</span>
-</h3>
+</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/31rckpfum5kiaki44d7mqdpmcwme">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rckpfum5kiaki44d7mqdpmcwme&count=3&unique=true" alt="Spotify recently played" />
   </a>
 </div>
-
-<style>
-  .code-font-1 {
-    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 1.1em;
-    color: #cc4549;        /* biru kode GitHub */
-  }
-</style>
