@@ -73,6 +73,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/madeeryu/madeeryu/output/snake.svg" alt="Snake animation" />
+
 ###
 <h2 align="left">
   <span class="code-font-1">| Play music?</span>
