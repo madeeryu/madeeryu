@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
 </div>
+<br clear="both">
 
 ### | Socials
 <div align="left">
@@ -59,19 +60,10 @@
 
 <br clear="both">
 
-<!-- Pastikan kamu sudah punya workflow snake.svg di repo -->
-
-###
-
 ###
 <h2 align="left">
   <span class="code-font-1">| Let'Play!</span>
 </h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
-</picture>
 
 <img src="https://raw.githubusercontent.com/madeeryu/madeeryu/output/snake.svg" alt="Snake animation" />
 
