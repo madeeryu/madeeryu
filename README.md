@@ -6,17 +6,18 @@
 
 ###
 <h2 align="left">
-  <span class="code-font-1">|Who is me?</span>
+  <span class="code-font-1">| Who is me?</span>
 </h2>
 
 <div align="center">
   <img src="./assets/banner.gif" alt="funny coding gif" />
 </div>
 
+
 ---
 ###
 <h2 align="left">
-  <span class="code-font-1">|My Skills</span>
+  <span class="code-font-1">| My Skills</span>
 </h2>
 
 <img align="right" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
@@ -40,7 +41,7 @@
 
 ###
 <h2 align="left">
-  <span class="code-font-1">|Socials</span>
+  <span class="code-font-1">| Socials</span>
 </h2>
 <div align="left">
   <a href="https://www.instagram.com/alfaaaruqyy?igsh=MWtkM2s0cXVmdnV6eg==" target="_blank">
@@ -59,6 +60,7 @@
 
 ###
 
+<br clear="both">
 
 <!-- Pastikan kamu sudah punya workflow snake.svg di repo -->
 
@@ -66,7 +68,7 @@
 
 ###
 <h2 align="left">
-  <span class="code-font-1">|Let'Play!</span>
+  <span class="code-font-1">| Let'Play!</span>
 </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph-dark.svg">
@@ -75,10 +77,8 @@
 </picture>
 
 ###
-
----
 <h2 align="left">
-  <span class="code-font-1">|Play music?</span>
+  <span class="code-font-1">| Play music?</span>
 </h2>
 <div align="center">
   <a href="https://open.spotify.com/user/31rckpfum5kiaki44d7mqdpmcwme">
