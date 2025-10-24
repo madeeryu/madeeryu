@@ -74,7 +74,7 @@
 
 ###
 
-<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
+<img align="rigth" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 <br clear="both">
 
