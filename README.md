@@ -1,6 +1,6 @@
-<h1 align="center">
-  <span class="type code-font">Yo, man! Wasgud?</span>
-</h1>
+<div align="center">
+  <img src="./assets/banner-1.png" alt="" style="width:100%; max-width:100%; height:auto;"/>
+</div>
 
 ---
 
