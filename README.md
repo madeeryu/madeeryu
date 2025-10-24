@@ -58,15 +58,6 @@
 
 ###
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/madeeryu/madeeryu/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<img align="right" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 ###
 
@@ -87,6 +78,8 @@
 </div>
 
 ###
+
+<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 <br clear="both">
 
