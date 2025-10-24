@@ -35,7 +35,7 @@
 
 ###
 
-<div style="display:flex; gap:1rem; align-items:center; width:60%">
+<div style="align:center; width:60%">
   <img src="https://streak-stats.demolab.com?user=madeeryu&locale=en&mode=weekly&theme=gruvbox_light&hide_border=false&border_radius=5&height=150&width=100" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=madeeryu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
