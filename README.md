@@ -58,23 +58,25 @@
 ## | Socials
 <div align="center">
   <a href="https://www.instagram.com/alfaaaruqyy?igsh=MWtkM2s0cXVmdnV6eg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="45" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="65" alt="instagram logo" />
   </a>
   <a href="mailto:ahmadalfaruqi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="45" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="65" alt="gmail logo" />
   </a>
   <a href="https://discord.com/users/ahmad#1234" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="45" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="65" alt="discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-alfaruqi-haqinullah-86a10b1a4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="45" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="65" alt="linkedin logo" />
   </a>
 </div>
 
 
 ###
 
-<img align="rigth" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
+<div align="center">
+  <img height="100%" src="https://imgur.com/fzzjqkf.gif"  />
+</div>
 
 <br clear="both">
 
