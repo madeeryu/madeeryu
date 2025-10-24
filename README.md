@@ -62,7 +62,7 @@
 ###
 
 ## | Socials
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/alfaaaruqyy?igsh=MWtkM2s0cXVmdnV6eg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -77,9 +77,10 @@
   </a>
 </div>
 
+<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
+
 ###
 
-<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 <br clear="both">
 
