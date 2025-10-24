@@ -35,26 +35,20 @@
 
 ###
 
-<div align:"center">
-  <img src="https://streak-stats.demolab.com?user=madeeryu&locale=en&mode=weekly&theme=gruvbox_light&hide_border=false&border_radius=5&height=150&width=100" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=madeeryu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://streak-stats.demolab.com?user=madeeryu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=madeeryu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeeryu&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:madeeryu?theme=booru-lewd&padding=8&scale=1.6&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:madeeryu?theme=booru-mjg&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
 ###
 
@@ -64,23 +58,23 @@
 ## | Socials
 <div align="center">
   <a href="https://www.instagram.com/alfaaaruqyy?igsh=MWtkM2s0cXVmdnV6eg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="45" alt="instagram logo" />
   </a>
   <a href="mailto:ahmadalfaruqi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="45" alt="gmail logo" />
   </a>
   <a href="https://discord.com/users/ahmad#1234" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="45" alt="discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-alfaruqi-haqinullah-86a10b1a4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="45" alt="linkedin logo" />
   </a>
 </div>
 
-<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 ###
 
+<img align="Center" height="100%" src="https://imgur.com/fzzjqkf.gif" alt="Coding gif" />
 
 <br clear="both">
 
